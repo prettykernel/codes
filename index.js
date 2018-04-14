@@ -725,13 +725,13 @@ module.exports = {
     // @off 太严格了
     'require-jsdoc': 'off',
     // @fixable 结尾必须有分号
-    semi: [
-      'error',
-      'always',
-      {
-        omitLastInOneLineBlock: true
-      }
-    ],
+    // semi: [
+    //   'error',
+    //   'always',
+    //   {
+    //     omitLastInOneLineBlock: true
+    //   }
+    // ],
     // @fixable 一行有多个语句时，分号前面禁止有空格，分号后面必须有空格
     'semi-spacing': [
       'error',

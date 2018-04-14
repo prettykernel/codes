@@ -1,4 +1,5 @@
 // 参考 https://github.com/AlloyTeam/eslint-config-alloy
+// http://eslint.cn/docs/user-guide/configuring
 
 // .eslintrc.js 引用 react.js 规则，react.js 规则引用 index.js 规则
 module.exports = {
